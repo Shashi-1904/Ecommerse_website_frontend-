@@ -23,10 +23,8 @@ This project is an e-commerce website frontend built using HTML, CSS, and JavaSc
    
 2. Navigate to the project directory:
 
-```bash
-C
-
-cd e-commerce-frontend
+   ```bash
+   cd e-commerce-frontend
 
 
 3. Open the index.html file in your web browser to view the website locally.
